@@ -1,0 +1,31 @@
+body {
+  background: #fff;
+}
+
+a {
+  text-decoration: none;
+}
+
+p {
+  text-indent: 1em;
+}
+
+h2 {
+  text-align: center;
+  font-size: 1.2em;
+  font-weight: bold;
+  margin-top: 0.6em;
+  margin-bottom: 0.4em;
+}
+
+h3 {
+  font-size: 1.0em;
+  font-weight: bold;
+  margin-top: .4em;
+  margin-bottom: 0;
+}
+
+p.nestled {
+  margin-top: 0;
+  text-indent: 0;
+}
